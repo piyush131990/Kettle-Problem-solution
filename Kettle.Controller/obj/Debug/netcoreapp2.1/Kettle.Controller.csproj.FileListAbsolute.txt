@@ -1,0 +1,12 @@
+F:\brand developers\Kettle\Kettle.Controller\bin\Debug\netcoreapp2.1\Kettle.Controller.deps.json
+F:\brand developers\Kettle\Kettle.Controller\bin\Debug\netcoreapp2.1\Kettle.Controller.dll
+F:\brand developers\Kettle\Kettle.Controller\bin\Debug\netcoreapp2.1\Kettle.Controller.pdb
+F:\brand developers\Kettle\Kettle.Controller\bin\Debug\netcoreapp2.1\BDL.Kettle.Model.dll
+F:\brand developers\Kettle\Kettle.Controller\bin\Debug\netcoreapp2.1\BDL.Kettle.Model.pdb
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.csprojAssemblyReference.cache
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.csproj.CoreCompileInputs.cache
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.AssemblyInfoInputs.cache
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.AssemblyInfo.cs
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.csproj.CopyComplete
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.dll
+F:\brand developers\Kettle\Kettle.Controller\obj\Debug\netcoreapp2.1\Kettle.Controller.pdb

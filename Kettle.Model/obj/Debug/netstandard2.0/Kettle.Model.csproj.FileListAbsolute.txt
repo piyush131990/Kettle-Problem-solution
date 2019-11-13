@@ -1,0 +1,9 @@
+F:\brand developers\Kettle\Kettle.Model\bin\Debug\netstandard2.0\BDL.Kettle.Model.deps.json
+F:\brand developers\Kettle\Kettle.Model\bin\Debug\netstandard2.0\BDL.Kettle.Model.dll
+F:\brand developers\Kettle\Kettle.Model\bin\Debug\netstandard2.0\BDL.Kettle.Model.pdb
+F:\brand developers\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.csprojAssemblyReference.cache
+F:\brand developers\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.csproj.CoreCompileInputs.cache
+F:\brand developers\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.AssemblyInfoInputs.cache
+F:\brand developers\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.AssemblyInfo.cs
+F:\brand developers\Kettle\Kettle.Model\obj\Debug\netstandard2.0\BDL.Kettle.Model.dll
+F:\brand developers\Kettle\Kettle.Model\obj\Debug\netstandard2.0\BDL.Kettle.Model.pdb
